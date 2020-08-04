@@ -48,7 +48,7 @@
         android:id="@+id/imageView3"
         android:layout_width="149dp"
         android:layout_height="100dp"
-        android:layout_below="@id/spinner2"
+        android:layout_below="@id/spinner"
         android:layout_centerHorizontal="true"
         app:srcCompat="@drawable/bass" />
 
